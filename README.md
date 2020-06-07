@@ -6,8 +6,8 @@ Projeto para cadastramento e localização de pontos de coleta de lixo recicláv
 
 Este projeto foi desenvolvido com:
 
-* [Node.js]
+* Node.js
 
-* [React]
+* React
 
-* [ReactNative]
+* ReactNative
