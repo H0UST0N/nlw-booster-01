@@ -2,7 +2,7 @@
 
 Projeto para cadastramento e localização de pontos de coleta de lixo reciclável desenvolvido durante a Next Level Week #01
 
-![Home](https://user-images.githubusercontent.com/898246/84021241-9af32c00-a95a-11ea-897b-5adb1d9c581c.png)
+![Capa](https://user-images.githubusercontent.com/898246/84021491-11902980-a95b-11ea-9d19-ccdcebb33062.png)
 
 ## Tecnologias
 
