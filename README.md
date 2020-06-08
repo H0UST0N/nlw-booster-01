@@ -11,3 +11,19 @@ Este projeto foi desenvolvido com:
 * React
 
 * ReactNative
+
+## Utilização
+
+Clone o repositorio
+
+* server (Api)
+npm install
+npm run dev
+
+* web (Aplicação Web)
+npm install
+npm start
+
+* mobile (Aplicação Mobile)
+npm install
+npm start
