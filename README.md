@@ -14,16 +14,20 @@ Este projeto foi desenvolvido com:
 
 ## Utilização
 
-Clone o repositorio
+1. Clone o repositório
+2. Entre nas pastas e execute os comandos
 
 * server (Api)
-npm install
-npm run dev
+  > npm install
+  
+  > npm run dev
 
 * web (Aplicação Web)
-npm install
-npm start
+  >npm install
+  
+  >npm start
 
 * mobile (Aplicação Mobile)
-npm install
-npm start
+  >npm install
+  
+  >npm start
